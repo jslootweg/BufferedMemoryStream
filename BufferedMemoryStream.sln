@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BufferedMemoryStream", "BufferedMemoryStream.csproj", "{57EB3585-677B-4101-9A92-4B30231E135A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BufferedMemoryStream", "BufferedMemoryStream\BufferedMemoryStream.csproj", "{57EB3585-677B-4101-9A92-4B30231E135A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{1E36F0CD-FD04-439A-9AED-4E98FC1D7618}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{1E36F0CD-FD04-439A-9AED-4E98FC1D7618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
