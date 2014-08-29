@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BufferedMemoryStream", "BufferedMemoryStream.csproj", "{57EB3585-677B-4101-9A92-4B30231E135A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{1E36F0CD-FD04-439A-9AED-4E98FC1D7618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57EB3585-677B-4101-9A92-4B30231E135A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EB3585-677B-4101-9A92-4B30231E135A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EB3585-677B-4101-9A92-4B30231E135A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EB3585-677B-4101-9A92-4B30231E135A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E36F0CD-FD04-439A-9AED-4E98FC1D7618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E36F0CD-FD04-439A-9AED-4E98FC1D7618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E36F0CD-FD04-439A-9AED-4E98FC1D7618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E36F0CD-FD04-439A-9AED-4E98FC1D7618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
